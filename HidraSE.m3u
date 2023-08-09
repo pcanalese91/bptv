@@ -46,7 +46,7 @@ http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313045
 #EXTINF:-1 tvg-name="22 Warner Tv" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/Kvhb1sU.png",Warner Tv
 http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313050
 #EXTINF:-1 tvg-name="23 Discovery" group-title="Cultura" tvg-logo="http://imgfz.com/i/Qa8DFLu.png",Discovery
-http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313142
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313129
 #EXTINF:-1 tvg-name="24 History Channel" group-title="Cultura" tvg-logo="http://imgfz.com/i/OAB8KJV.png",History Channel
 http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313133
 #EXTINF:-1 tvg-name="25 Nat Geo" group-title="Cultura" tvg-logo="http://imgfz.com/i/mWD3tAL.jpeg",Nat Geo
@@ -85,6 +85,8 @@ http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35018
 http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35019
 #EXTINF:-1 tvg-name="41 Zona Latina" group-title="Musicales" tvg-logo="http://imgfz.com/i/kn9fwd8.png",Zona Latina
 http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35012
+#EXTINF:-1 tvg-name="42 ViaX" group-title="Musicales" tvg-logo="http://imgfz.com/i/8svwqEd.jpeg",ViaX
+0
 #EXTINF:-1 tvg-name="43 Espn" group-title="Deportes" tvg-logo="http://imgfz.com/i/r9G5qol.jpeg",Espn
 http://hidra.live:80/tcuqjdul/8Vc4Wcam58/123652
 #EXTINF:-1 tvg-name="44 Espn 2" group-title="Deportes" tvg-logo="http://imgfz.com/i/gL5yn9I.jpeg",Espn 2
@@ -121,3 +123,4 @@ http://24383.live.streamtheworld.com:80/FMDOS_SC
 http://26493.live.streamtheworld.com:80/CORAZON_SC
 #EXTINF:-1 tvg-name="56 RADIO" group-title="Radios" tvg-logo="http://imgfz.com/i/e2370RM.jpeg",RADIO
 http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35316
+
