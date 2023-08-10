@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="01 Tvn" tvg-logo="http://imgfz.com/i/neq9Byr.jpeg" group-title="Nacionales",Tvn
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35295
+#EXTINF:-1 tvg-name="02 Canal 13" tvg-logo="http://imgfz.com/i/5mYGAlc.jpeg"group-title="Nacionales",Canal 13
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35304
+#EXTINF:-1 tvg-name="03 Mega" tvg-logo="http://imgfz.com/i/CnXBtmG.jpeg" group-title="Nacionales",Mega
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35298
+#EXTINF:-1 tvg-name="04 Chv" tvg-logo="http://imgfz.com/i/bA5ltCi.png" group-title="Nacionales,Chv
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35301
+#EXTINF:-1 tvg-name="05 La Red" tvg-logo="http://imgfz.com/i/LUgMjku.jpeg" group-title="Nacionales,La Red
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/35310
+#EXTINF:-1 tvg-name="06 Tv+" tvg-logo="http://imgfz.com/i/a72xhLw.png" group-title="Nacionales,Tv+
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/123889
+#EXTINF:-1 tvg-name="20 Space" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/f6XJUcN.png",Space
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313044
+#EXTINF:-1 tvg-name="21 Universal Channel" tvg-logo="http://imgfz.com/i/twCYpxv.png" group-title="Peliculas y Series",Universal Channel
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313049
+#EXTINF:-2 tvg-name="22 Studio Universal"tvg-logo="https://img.tvcl.xyz/peliculasyseries/studiouniversal.png" group-title="Peliculas y Series",Studio Universal
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/313045
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytltuviIF5aXbPhuHbALvFHwW86.jpg" group-title="Series: Drama",4 Blocks S01 E01
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyYafRXTqhp92BaJO4eekRxUsd7.jpg" group-title="Series: Drama",4 Blocks S01 E02
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enSKInSK5OpHuLlAWOy6cB6CBmJ.jpg" group-title="Series: Drama",Por trece razones S01 E01
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIElKbO6u6DTKlO0mUTiC45V0vw.jpg" group-title="Series: Drama",Por trece razones S01 E02
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znLdtLwjWlZYTNmbw6QNE3tuLX2.jpg" group-title="Series: Drama",Por trece razones S01 E03
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUQ1OgX6Y2XSnpVRs1dc7Sg7Uxe.jpg" group-title="Series: Drama",Por trece razones S01 E04
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNNgBZ0aMB5ueVbQUk5STmSMTTQ.jpg" group-title="Series: Drama",Por trece razones S01 E05
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nCqTIVmrp60gjMYszBko5nuzV.jpg" group-title="Series: Drama",Por trece razones S01 E06
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCtwAcduuzHzbfDXujRTGDd6XLa.jpg" group-title="Series: Drama",Por trece razones S01 E07
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25D1v9leZsvEuCln7oPB5f4qCgc.jpg" group-title="Series: Drama",Por trece razones S01 E08
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UBl5TwZhuhdW1qrteOAT2Sz2NF.jpg" group-title="Series: Drama",Por trece razones S01 E09
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3VJwI5T8tWKOyxgkAwrVNgfxs1.jpg" group-title="Series: Drama",Por trece razones S01 E10
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqluid8rwNito373FW0xWFGhekp.jpg" group-title="Series: Drama",Por trece razones S01 E11
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hd05K9wr6HhuiISTAnSUCEl3ne.jpg" group-title="Series: Drama",Por trece razones S01 E12
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Syr5SLHPl6ZDRuVtkb9qswwG0.jpg" group-title="Series: Drama",Por trece razones S01 E13
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNQuGGXmUQUg0SeKKgGyhGF30Tj.jpg" group-title="Series: Drama",Por trece razones S02 E01
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZJykBu10cBkuodZvFenOxOzWmN.jpg" group-title="Series: Drama",Por trece razones S02 E02
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMyThnsd5SR0rEZuui3wQzfcApJ.jpg" group-title="Series: Drama",Por trece razones S02 E03
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1HRraavvNpIUGKkX48yj05ydB2.jpg" group-title="Series: Drama",Por trece razones S02 E04
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orvXxOCaEpLW2kPmp7DGPZmBDkO.jpg" group-title="Series: Drama",Por trece razones S02 E05
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaOJ2lPExfbwpb58XReFhXSDAYY.jpg" group-title="Series: Drama",Por trece razones S02 E06
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDSLBlClgwwf2LU3v9s0lL3qykz.jpg" group-title="Series: Drama",Por trece razones S02 E07
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnnc5Ry1jcZjGmuTJVKwDsGQXaw.jpg" group-title="Series: Drama",Por trece razones S02 E08
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42x0zTgO5GleSqhuRsgYgmwRWRP.jpg" group-title="Series: Drama",Por trece razones S02 E09
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por trece razones S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gG3ZiwRHL5er2EBpeVm83VT4Jc.jpg" group-title="Series: Drama",Por trece razones S02 E10
+http://hidra.live:80/series/tcuqjdul/8Vc4Wcam58/316433.mkv
